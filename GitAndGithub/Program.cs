@@ -9,6 +9,7 @@ namespace GitAndGithub
             //Salam Baku
             Console.WriteLine("Hello World!");
             Console.WriteLine("Baku");
+            //Holy shit
         }
     }
 }
